@@ -21,6 +21,5 @@ It helps to understand how **symmetry** and **filter length** affect the FIR typ
 1. Open MATLAB.  
 2. Go to the folder that contains this file and the script.  
 3. Run the script:
-   ```matlab
-   ep11```
+   ```matlab ep11```
 4. It will generate one figure named: ```exercise11_results.png```
